@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#00A2AC</color>
+    <color name="purple_500">#01B9C5</color>
+    <color name="purple_700">#109098</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="txt_hint">#808080</color>
+    <color name="main_color">#17C3CE</color>
+    <color name="txt_color">#FFFFFFFF</color>
+    <color name="drawer_header_color">#959494</color>
+    <color name="colorTips">#8C0FA2</color>
+
+
+    <!-- TikTok Color Combination -->
+    <color name="fb_main">#2196F3</color>
+
+    <!-- TikTok Color Combination -->
+    <color name="tikTok_main">#000000</color>
+    <color name="tiktok_sub">#9C27B0</color>
+
+    <!-- Instagram Color Combination  -->
+    <color name="instagram_main">#9C27B0</color>
+    <color name="insta_sub">#9C27B0</color>
+</resources>
