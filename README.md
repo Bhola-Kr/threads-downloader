@@ -65,7 +65,7 @@ Contributions are welcome! 🎉
 
 ## 📬 Contact
 
-👤 **Your Name**
+👤 **Bhola**
 📧 \[[b.kumar2298.com](mailto:b.kumar2298.com)]
 🔗 \[Bhola-kr]
 
